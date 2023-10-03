@@ -1,0 +1,1 @@
+import{j as e}from"./app-31efe2c5.js";function r(){return e.jsx("div",{className:"min-h-screen flex flex-col items-center justify-center bg-gray-100",children:e.jsx("div",{className:"text-2xl font-bold mb-6",children:"マイカードを表示"})})}export{r as default};
